@@ -1,7 +1,7 @@
 {
   "name": "@hackermans/napi-rs",
   "description": "Testing out pre-compiled rust binaries in rust using N-API",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
