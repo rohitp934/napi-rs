@@ -1,0 +1,20 @@
+{
+  "name": "@hackermans/napi-rs-win32-x64-msvc",
+  "version": "0.0.0",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "napi-rs.win32-x64-msvc.node",
+  "files": [
+    "napi-rs.win32-x64-msvc.node"
+  ],
+  "description": "Testing out pre-compiled rust binaries in rust using N-API",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "git@github.com:rohitp934/napi-rs.git"
+}
