@@ -1,5 +1,6 @@
 {
   "name": "@hackermans/napi-rs",
+  "description": "Testing out pre-compiled rust binaries in rust using N-API",
   "version": "0.0.0",
   "main": "index.js",
   "types": "index.d.ts",
@@ -34,6 +35,5 @@
     "version": "napi version"
   },
   "packageManager": "yarn@3.5.1",
-  "repository": "git@github.com:rohitp934/napi-rs.git",
-  "description": "Testing out pre-compiled rust binaries in rust using N-API"
+  "repository": "git@github.com:rohitp934/napi-rs.git"
 }
